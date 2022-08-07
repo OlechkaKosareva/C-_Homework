@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sen2_Example002/1.0.0": {
+        "runtime": {
+          "Sen2_Example002.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sen2_Example002/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
