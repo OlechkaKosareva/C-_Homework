@@ -1,8 +1,11 @@
 ﻿// Напишите программу, которая выводит третью цифру заданного числа или сообщает, 
 //что третьей цифры нет.
-int n = new Random().Next();
+int value = new Random().Next();
+string str = value.ToString();
+Console.WriteLine(str);
+int n = str.Length;
 Console.WriteLine(n);
-if (n>99)
-Console.WriteLine(n/100);//не соображу, смотря скольки значное число
-else
-Console.WriteLine("третьей цифры нет");
+if (n > 2)
+  Console.WriteLine("третья цифра -> " + str[2]);
+if (value<99)
+Console.WriteLine(" -> " + "нет третьего числа");
