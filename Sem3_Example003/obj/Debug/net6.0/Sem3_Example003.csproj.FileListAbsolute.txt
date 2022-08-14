@@ -1,0 +1,15 @@
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.csproj.AssemblyReference.cache
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.AssemblyInfoInputs.cache
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.AssemblyInfo.cs
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.csproj.CoreCompileInputs.cache
+C:\GB\Homework\Sem3_Example003\bin\Debug\net6.0\Sem3_Example003.exe
+C:\GB\Homework\Sem3_Example003\bin\Debug\net6.0\Sem3_Example003.deps.json
+C:\GB\Homework\Sem3_Example003\bin\Debug\net6.0\Sem3_Example003.runtimeconfig.json
+C:\GB\Homework\Sem3_Example003\bin\Debug\net6.0\Sem3_Example003.dll
+C:\GB\Homework\Sem3_Example003\bin\Debug\net6.0\Sem3_Example003.pdb
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.dll
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\refint\Sem3_Example003.dll
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.pdb
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\Sem3_Example003.genruntimeconfig.cache
+C:\GB\Homework\Sem3_Example003\obj\Debug\net6.0\ref\Sem3_Example003.dll
